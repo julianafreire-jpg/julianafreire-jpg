@@ -5,7 +5,7 @@
 
 ---
 
-### 👋 Olá! sou @euju-dev.
+### 👋 Olá! sou @julianafreire-jpg
 - 👀 Estou me tornando uma desenvolvedora Full Stack.
 - 🌱 Minhas habilidades (em aprendizado): Python, SQL, HTML, CSS, JavaScript.
 - 📫 Você pode me encontrar no Instagram: @euju.dev.
