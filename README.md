@@ -1,3 +1,5 @@
+julianafreire-jpg/README.md
+
 ### 👋 Hi! I’m @julianafreire-jpg
 - 👀 I’m becoming a Full-Stack Developer.
 - 🌱 My skills (learning and improving): Python, SQL, HTML, CSS, JavaScript.
